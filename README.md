@@ -7,7 +7,22 @@
   - [Top Countries by Population](https://github.com/gshakespeare/Top-Countries-by-Population)
   - [Spotfiy Simulation](https://github.com/gshakespeare/Top-Countries-by-Population)
 
- 
+## 🎓 Education: 
+- B.S., Data Analytics | Western Governors University
+- 
+## Work Experience
+IT & Data Analysis Internship @ Intern Abroad HQ (_June 2025 - August 2025_)
+- Conducted data cleaning, analysis, and visualization using Excel and beginner-level SQL
+- Assisted in organizing and interpreting datasets to support team decision-making
+- Collaborated remotely with supervisors to complete weekly IT and analytics tasks
+- Helped troubleshoot basic technical issues and improve digital workflow processes
+- Created simple reports to communicate data insights clearly to non-technical team members
+- Strengthened remote work skills through regular virtual meetings and project updates
+
+
+#### Technical Skills: 
+- Python, Java, HTML, SQL, Excel, Word, Teams, Tableau, Power BI
+
 <h2> ✅ Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
