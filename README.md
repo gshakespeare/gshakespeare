@@ -9,7 +9,7 @@
 
 ## 🎓 Education: 
 - B.S., Data Analytics | Western Governors University
-- 
+  
 ## Work Experience
 IT & Data Analysis Internship @ Intern Abroad HQ (_June 2025 - August 2025_)
 - Conducted data cleaning, analysis, and visualization using Excel and beginner-level SQL
